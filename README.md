@@ -31,6 +31,8 @@ your fellow students or whoever is willing to listen. It helps wonders.
 
 You will also find a list of external resources that may help you get
 through the exercise.
+- [Is Web Development a Good Career?](https://www.scaler.com/blog/is-web-development-a-good-career/)
+- [Web Development Roadmap for 2024](https://www.scaler.com/blog/web-development-roadmap/)
 
 Internet is full of tutorials, guides, and videos. We are working hard to
 curate an index of relevant resources for every lesson.
